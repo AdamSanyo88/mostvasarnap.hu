@@ -7,7 +7,7 @@ permalink: /rolam
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
  <div class="row">
-        <div class="col l7 card light-green lighten-4">
+        <div class="col l7 card light-blue lighten-5">
         
 <div class="card-content">
           <span class="center card-title">Ki készíti az előrejelzéseket?</span>
@@ -25,7 +25,7 @@ permalink: /rolam
         </div>        
         </div>
 		
-		<div class="col l4 offset-l1 card light-green lighten-4">
+		<div class="col l4 offset-l1 card light-blue lighten-5">
 		 <div class="card-content">
             <span class="center card-title">Cikkeim a 2019-es önkormányzati választás esélyeiről</span>
 <br/>
